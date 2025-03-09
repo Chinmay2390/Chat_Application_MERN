@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { Box, Button, Flex, Text, Link, useDisclosure } from "@chakra-ui/react";
 import { FaGithub, FaMoon, FaSun } from "react-icons/fa";
-// import ProfileMenu from "./ProfileMenu";
+import ProfileMenu from "./ProfileMenu";
 import chatContext from "../../context/chatContext";
 
 const Navbar = (props) => {

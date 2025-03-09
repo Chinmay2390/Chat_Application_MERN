@@ -69,9 +69,9 @@ const Home = () => {
         textAlign="center"
       >
         &copy; 2024 Conversa. All rights reserved.
-        <Link to="https://github.com/pankil-soni" target="_blank">
+        <Link to="https://github.com/chinmay2390" target="_blank">
           <Text as="u" color="purple.500" ml={1}>
-            Pankil Soni
+            Chinmay Kamlaskar
           </Text>
         </Link>
       </Text>
